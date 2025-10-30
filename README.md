@@ -12,7 +12,7 @@ Currently exploring more in **backend & full-stack development** to build system
 
 ### 💼 What I Do
 - 🎨 **Modern UI/UX Implementation** — Tailwind, Bootstrap, shadcn/ui  
-- ⚛️ **Frontend Frameworks** — React.js, Vite, Laravel Breeze (frontend integration)  
+- ⚛️ **Frontend Frameworks** — React.js, Vite, Vue.js 
 - 🧩 **System Architecture** — MVC pattern, component-based design  
 - 🔐 **Authentication & Security** — 2FA, hashed auth, secure routing  
 - 🌙 **Dark/Light Mode UIs** with glassmorphism, blobs, and minimal gradients  
@@ -30,10 +30,10 @@ Currently exploring more in **backend & full-stack development** to build system
 
 ### 🧰 Tech Stack
 **Languages:** HTML, CSS, JavaScript, PHP, SQL  
-**Frameworks/Libraries:** React.js, Express.js, Laravel Breeze  
+**Frameworks/Libraries:** React.js, Express.js, Vue.js
 **Styling:** Tailwind CSS, Bootstrap, Framer Motion, shadcn/ui  
 **Database:** MySQL  
-**Tools:** VSCode, Git, Figma, Postman, XAMPP  
+**Tools:** VSCode, Git, Postman, XAMPP  
 
 ---
 
@@ -51,8 +51,7 @@ Whether it’s a **portfolio**, **dashboard**, or a full-blown **web app**, I’
 
 📫 **Reach me out:**  
 - GitHub: [@andreiserafines](https://github.com/andreiserafines)  
-- Email: *add your email here*  
-- LinkedIn: *optional link*  
+- Email: *andreispdev@gmail.com*   
 
 ---
 
